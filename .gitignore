@@ -6,7 +6,7 @@ __pycache__/
 iris.csv
 new_iris_data.csv
 shopping_data.csv
-
+crypto_data.csv
 
 # C extensions
 *.so
