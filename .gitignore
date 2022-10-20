@@ -5,6 +5,8 @@ __pycache__/
 201908-citibike-tripdata.csv
 iris.csv
 new_iris_data.csv
+shopping_data.csv
+
 
 # C extensions
 *.so
